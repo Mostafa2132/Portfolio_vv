@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unknown-property */
 
 import { useRef } from "react";
 import { useGLTF, useTexture } from "@react-three/drei";

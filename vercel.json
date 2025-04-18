@@ -1,8 +1,10 @@
 {
-  "rewrites": [
+  "version": 2,
+  "builds": [],
+  "routes": [
     {
-      "source": "/(.*)",
-      "destination": "/"
+      "src": "/(.*)",
+      "dest": "/dist/$1"
     }
   ]
 }

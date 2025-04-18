@@ -14,7 +14,7 @@
     "@fortawesome/fontawesome-free": "^6.7.2",
     "@gsap/react": "^2.1.2",
     "@react-three/drei": "^9.89.1",
-    "@react-three/fiber": "^8.13.6",
+    "@react-three/fiber": "^7.0.29",
     "@react-three/postprocessing": "^3.0.4",
     "emailjs": "^4.0.3",
     "gsap": "^3.12.7",

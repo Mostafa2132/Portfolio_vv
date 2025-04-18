@@ -22,7 +22,7 @@ function App() {
       <TechStack />
       <Testimonals />
       <Contact />
-<Footer />
+      <Footer />
       <Toaster
         toastOptions={{
           style: {
